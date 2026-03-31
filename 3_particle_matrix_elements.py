@@ -93,7 +93,6 @@ def C(m1,m2,M,l):
 def vcolumb(l):
     return gamma(l+1/2)/gamma(l+1)
 
-
 def V_2(v_l,m1_prime,m2_prime,m1,m2):
     """Returns the matrix elements of two particles for a pseudopotential v_l upto an angular momentum L"""
     
